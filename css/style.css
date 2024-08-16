@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+.nav-container {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.137);
+}
+
+.nav-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 5px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+}
+
+.span-game {
+  color: #f948b2;
+  margin-left: 5px;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  margin-right: 15px;
+}
+
+.fa-youtube {
+  color: red;
+}
+
+.fa-tiktok {
+  color: blue;
+}
+
+.nav-btn-follow {
+  background-color: rgb(157, 157, 167);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  margin-right: 0px;
+  padding: 5px 20px;
+}
+
+/* header section starts here */
+
+.header-main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-left{
+
+
+}
+
+.header-right{
+
+}
