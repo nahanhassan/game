@@ -66,13 +66,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .header-left{
-
-
+  border: 1px red solid;
+  width: 50%;
 }
 
 .header-right{
+  border: 1px red solid;
+  width: 50%;
+}
 
+.header-right> img{
+width: 100%;
 }
